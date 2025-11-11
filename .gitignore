@@ -1,0 +1,2 @@
+# Ignore all .log files inside the logs directory
+logs/*.log
