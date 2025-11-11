@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: book_recommender
+Version: 0.0.1
+Summary: A small local package for Book Recommendation System
+Home-page: https://github.com/InnocentMchechesi/E2E-Book-recommender-system
+Author: INNOCENT AMOS MCHECHESI
+Author-email: mchechesia@gmail.com
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
+
+# E2E-Book-recommender-system
+AI System for recommending books

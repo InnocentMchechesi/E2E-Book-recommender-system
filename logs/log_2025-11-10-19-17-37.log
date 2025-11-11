@@ -1,0 +1,2 @@
+[2025-11-10 19:17:39,006] numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2025-11-10 19:17:44,920] root - INFO - Model Recommendation Config: ModelRecommendationConfig(book_name_serialized_objects='artifacts\\serialized_objects\\book_names.pkl', book_pivot_serialized_objects='artifacts\\serialized_objects\\book_pivot.pkl', final_rating_serialized_objects='artifacts\\serialized_objects\\final_rating.pkl', trained_model_path='artifacts\\trained_model\\model.pkl')
